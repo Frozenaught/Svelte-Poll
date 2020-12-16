@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85addd2d-96a5-4a42-9507-71a822fd83e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/poll_ninja_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CreatePollForm.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Tabs.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PollDetails.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PollList.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Card.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stores/PollStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreatePollForm.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreatePollForm.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,11 @@
         <option value="Footer" />
         <option value="Tabs" />
         <option value="CreatePollForm" />
+        <option value="Button" />
+        <option value="PollList" />
+        <option value="PollDetails" />
+        <option value="Card" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,7 +51,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +73,8 @@
       <workItem from="1607617087828" duration="9000" />
       <workItem from="1607617159211" duration="2462000" />
       <workItem from="1607689865243" duration="106000" />
-      <workItem from="1607690232096" duration="7696000" />
+      <workItem from="1607690232096" duration="8429000" />
+      <workItem from="1608109622773" duration="14164000" />
     </task>
     <servers />
   </component>
